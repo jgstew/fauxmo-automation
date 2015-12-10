@@ -1,6 +1,22 @@
 # fauxmo-automation
 Home automation through Belkin WeMo emulation, which enables devices to be turned off and on with Amazon Echo (Alexa)
 
+Emulating a Belkin WeMo switch requires: https://github.com/makermusings/fauxmo
+
+An emulated switch must have a way to turn the device off and on. It might be possible to do something else when the switch is turned off or on, but the only input option is off or on.
+
+
+# Devices:
+
+## Panasonic Viera TV
+
+Can be turned off using https://github.com/tomokas/pyviera
+
+Should be able to be turned on using Wake-On-LAN
+
+## Visio Soundbar
+
+Shoud be controllable through: https://github.com/jterrace/pyharmony
 
 # References:
 - https://github.com/makermusings/fauxmo
