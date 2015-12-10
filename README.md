@@ -30,3 +30,4 @@ Shoud be controllable through: https://github.com/jterrace/pyharmony
 - http://www.makermusings.com/2015/07/18/virtual-wemo-code-for-amazon-echo/
 - https://github.com/tomokas/pyviera
 - https://github.com/petele/pyharmony/
+- http://www.makermusings.com/2015/07/13/amazon-echo-and-home-automation/
