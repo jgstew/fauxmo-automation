@@ -27,7 +27,7 @@ Should be able to be turned on using Wake-On-LAN
     from wakeonlan import wol
     wol.send_magic_packet('ff.ff.ff.ff.ff.ff')
 ```
-Note: the 'ff.ff.ff.ff.ff.ff' should be changed to the TV's actual MAC address, also, the TV has both a WiFi MAC & a LAN MAC. WoL packets should be sent to both at the same time.
+Note: the `ff.ff.ff.ff.ff.ff` should be changed to the TV's actual MAC address, also, the TV has both a WiFi MAC & a LAN MAC. WoL packets should be sent to both at the same time.
 
 
 ## Visio Soundbar
