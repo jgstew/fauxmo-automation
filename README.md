@@ -20,6 +20,8 @@ Can be turned off using https://github.com/tomokas/pyviera
 ```
 
 Should be able to be turned on using Wake-On-LAN
+- https://pypi.python.org/pypi/wakeonlan/0.2.2
+- https://github.com/remcohaszing/pywakeonlan
 
 ## Visio Soundbar
 
