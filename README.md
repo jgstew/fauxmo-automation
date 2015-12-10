@@ -30,7 +30,9 @@ Should be able to be turned on using Wake-On-LAN
 
 ## Visio Soundbar
 
-Shoud be controllable through: https://github.com/jterrace/pyharmony
+Shoud be controllable through:
+- https://github.com/jterrace/pyharmony
+- http://support.logitech.com/en_us/product/harmony-link
 
 # References:
 - https://github.com/makermusings/fauxmo
