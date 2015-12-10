@@ -12,6 +12,13 @@ An emulated switch must have a way to turn the device off and on. It might be po
 
 Can be turned off using https://github.com/tomokas/pyviera
 
+```python
+    from pyviera import VieraFinder
+    vf = VieraFinder()
+    tv = vf.get_viera()
+    tv._sendkey('NRC_POWER-ONOFF')
+```
+
 Should be able to be turned on using Wake-On-LAN
 
 ## Visio Soundbar
